@@ -1,0 +1,22 @@
+.main {
+	width: 1024px;
+	height: 768px;
+	background-color: black;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container-wrapper {
+    position: fixed;
+	width: 200px;
+	height: 200px;
+	background-color: #ffedef;
+}
+
+.cell {
+	width: 32px;
+	height: 32px;
+	float: left;
+}

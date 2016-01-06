@@ -1,0 +1,101 @@
+{
+  "screen": [
+    {
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },
+    {
+      "type": "Block"
+    },{
+      "type": "Tree"
+    },{
+      "type": "Ground"
+    },{
+      "type": "Chest",
+      "contains": [
+        "Apple",
+        "Pickaxe"
+      ]
+    },{
+      "type": "Ground"
+    },{
+      "type": "Block"
+    },
+    {
+      "type": "Block"
+    },{
+      "type": "Ground"
+    },{
+      "type": "Ground"
+    },{
+      "type": "Ground"
+    },{
+      "type": "Ground"
+    },{
+      "type": "Block"
+    },
+    {
+      "type": "Block"
+    },{
+      "type": "Tree",
+      "state": 2
+    },{
+      "type": "Ground"
+    },{
+      "type": "Ground"
+    },{
+      "type": "Tree"
+    },{
+      "type": "Block"
+    },
+    {
+      "type": "Block"
+    },{
+      "type": "Water"
+    },{
+      "type": "Water"
+    },{
+      "type": "Sand"
+    },{
+      "type": "Water"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Water"
+    },{
+      "type": "Water"
+    },{
+      "type": "Water"
+    },{
+      "type": "Water"
+    },{
+      "type": "Block"
+    },
+    {
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    },{
+      "type": "Block"
+    }
+  ],
+  "width": 6,
+  "height": 7
+}
